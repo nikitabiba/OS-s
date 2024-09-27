@@ -13,7 +13,6 @@ int main() {
         return 1;
     }
 
-    // Выводим значения хэндлов с комментариями
     printf("Stdin handle: %p\n", hStdin);
     printf("Stdout handle: %p\n", hStdout);
 
